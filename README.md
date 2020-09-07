@@ -4,7 +4,7 @@
 - Unlock Music的CLI版本正在开发中。
 - 我们新建了Telegram群组，欢迎加入！[https://t.me/unlock_music_chat](https://t.me/unlock_music_chat)
 - [其他测试版工具](https://github.com/ix64/unlock-music/wiki/%E5%85%B6%E4%BB%96%E9%9F%B3%E4%B9%90%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%85%B7)
-    
+  
 - ![Release and GitHub Pages](https://github.com/ix64/unlock-music/workflows/Release%20and%20GitHub%20Pages/badge.svg)
 
 # 特性
@@ -43,4 +43,4 @@
     - npm
 1. 获取项目源代码后执行 `npm install` 安装相关依赖
 2. 执行 `npm run build` 即可进行构建，构建输出为 dist 目录
-- `npm run serve` 可用于开发
+- `npm run serve` 可用于开发 
